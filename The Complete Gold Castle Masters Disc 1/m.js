@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Brothers in Arms.mp3";		
+f[2]	= "02 Recently.mp3";		
+f[3]	= "03 Asimbonanga.mp3";		
+f[4]	= "04 The Moon Is a Harsh Mistress.mp3";		
+f[5]	= "05 James & The Gang.mp3";		
+f[6]	= "06 Let Us Break Bread Together-Oh Freedom.mp3";		
+f[7]	= "07 MLK.mp3";		
+f[8]	= "08 Do Right Woman, Do Right Man.mp3";		
+f[9]	= "09 Biko.mp3";		
+f[10]	= "10 Lebanon.mp3";		

@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Diamonds and Rust.mp3";		
+f[2]	= "02 Ain't Gonna Let Nobody Turn Me Around.mp3";		
+f[3]	= "03 No Woman No Cry.mp3";		
+f[4]	= "04 Famous Blue Raincoat.mp3";		
+f[5]	= "05 Swing Low Sweet Chariot.mp3";		
+f[6]	= "06 Let It Be.mp3";		
+f[7]	= "07 El Preso Numero Nueve.mp3";		
+f[8]	= "08 Llego Con Tres Heridas.mp3";		
+f[9]	= "09 Txoria Txori.mp3";		
+f[10]	= "10 Ellas Danzan Solas (Cueca Sola).mp3";		
+f[11]	= "11 Gracias A La Vida.mp3";		
+f[12]	= "12 No Nos Moveran.mp3";		
